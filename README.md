@@ -1,13 +1,4 @@
-## Hi there 👋
-
-
-**josipo-coder/josipo-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# Hi, I'm Joshua 👋
+# Hi, I'm Joshua 👋
 
 I'm a beginner developer currently learning software development at Webbo3 Academy.
 
@@ -40,9 +31,3 @@ To become a skilled software developer by building real projects, solving proble
 ---
 
 ⭐ Thanks for visiting my profile!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
