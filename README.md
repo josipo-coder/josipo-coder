@@ -25,7 +25,7 @@ To become a skilled software developer by building real projects, solving proble
 
 ## Connect With Me
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/josipo-coder
 - Portfolio: Coming soon
 
 ---
